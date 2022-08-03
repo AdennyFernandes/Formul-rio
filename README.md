@@ -1,6 +1,6 @@
 # Formulário feito em HTML5 e CSS3.
 
-## Necessário criar conta no https://formspree.io/
+## Necessário criar conta no: https://formspree.io/
 
-### Adicionar seu endpoint - form action="https://formspree.io/f/{form_id}" method="post"
+### Adicionar seu endpoint: form action="https://formspree.io/f/{form_id}" method="post"
 
