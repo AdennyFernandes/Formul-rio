@@ -2,5 +2,5 @@
 
 ## Necessário criar conta no https://formspree.io/
 
-### Adicionar seu endpoint 
+### Adicionar seu endpoint - <form action="https://formspree.io/f/{form_id}" method="post">
 ### <form action="https://formspree.io/f/{form_id}" method="post">
